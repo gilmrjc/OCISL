@@ -33,6 +33,6 @@ You have the right to use, free of charge, the Software and its derivates for pe
 
 ## Change of licence
 
-In the event that no new official binary releases of the software are published by *\<copyright holders\>* for three consecutive years, the above conditions are permanently waived, and the software is additionally made available under the terms of the MIT license.
+In the event that no new official binary releases of the software are published by *\<copyright holders\>* for two consecutive years, the above conditions are permanently waived, and the software is additionally made available under the terms of the MIT license.
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
